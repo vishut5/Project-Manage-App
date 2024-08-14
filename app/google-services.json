@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939011780264",
+    "project_id": "projemanag-81e30",
+    "storage_bucket": "projemanag-81e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939011780264:android:f95eaaad2243858a775c9d",
+        "android_client_info": {
+          "package_name": "com.vishu.projemanag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOENuUm5GwdksWV4n3TSCQ0tWVPyJt54w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
