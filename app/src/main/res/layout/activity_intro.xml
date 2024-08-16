@@ -43,7 +43,6 @@
         android:text="@string/intro_text_description"
         android:textColor="@color/secondary_text_color"
         android:textSize="@dimen/intro_text_size" />
-    <!-- TODO (Step 8: Button background files are added in the drawable folder.) -->
     <Button
         android:id="@+id/btn_sign_in_intro"
         android:layout_width="match_parent"
@@ -77,4 +76,4 @@
         android:text="@string/sign_up"
         android:textColor="@color/colorAccent"
         android:textSize="@dimen/btn_text_size" />
-</LinearLayout><!-- END -->
+</LinearLayout>

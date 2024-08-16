@@ -1,4 +1,3 @@
-<!-- The values for the drawable items, dimen, string and color values are added in their respective folders and files. -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -122,4 +121,4 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
     </LinearLayout>
-</LinearLayout><!-- END -->
+</LinearLayout>
